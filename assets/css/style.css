@@ -1,0 +1,26 @@
+body {
+    background-color: #d67c9ab9;
+}
+.container {
+    text-align: center;
+    padding: 20px;
+
+}
+button {
+    padding: 10px;
+}
+
+form {
+    background-color: rgba(128, 128, 128, 0.692);
+    padding: 20px;
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 25px;
+}
+
+button {
+    padding: 20px;
+    margin: 5px;
+    border-radius: 20px;
+}
+
