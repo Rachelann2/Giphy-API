@@ -25,8 +25,8 @@ function displayGif(name) {
             var gif = $("<img>")
             var p = $("<p class='ratings'>" + results[i].rating + "</p>")
             gif.attr("src", gifURL)
-            $("#gif-inputbox").append(gif)
-            $("#gif-inputbox").append(p)
+            $("#gif").append(gif)
+            $("#gif").append(p)
 
 
         }
